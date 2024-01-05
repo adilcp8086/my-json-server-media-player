@@ -1,0 +1,31 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Dewaani Mastani",
+      "url": "https://static.toiimg.com/thumb/msid-49689533,width-1070,height-580,imgsize-58744,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "embededLink": "https://www.youtube.com/embed/h6lHUn20J5g"
+    }
+  ],
+  "category": [],
+  "history": [
+    {
+      "caption": "channa mere ya",
+      "embededLink": "https://www.youtube.com/embed/284Ov7ysmfA",
+      "timestamp": "01/2024, 12:20:39 PM",
+      "id": 2
+    },
+    {
+      "caption": "Dewaani Mastani",
+      "embededLink": "https://www.youtube.com/embed/h6lHUn20J5g",
+      "timestamp": "01/2024, 12:23:27 PM",
+      "id": 3
+    },
+    {
+      "caption": "Dewaani Mastani",
+      "embededLink": "https://www.youtube.com/embed/h6lHUn20J5g",
+      "timestamp": "01/2024, 01:14:16 PM",
+      "id": 4
+    }
+  ]
+}
